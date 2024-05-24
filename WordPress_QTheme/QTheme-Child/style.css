@@ -1,0 +1,91 @@
+/*
+ Theme Name:   QTheme Child
+ Description:  QTheme Child Theme
+ Template:     QTheme
+ License:      GNU General Public License v2 or later
+ Text Domain:  qthemechild
+ Version:      1.0.0
+ Author: kyl
+*/
+
+
+
+/* ==== General ==== */
+
+
+/* Elementor container padding*/
+
+.elementor-section-wrap>.elementor-element>.e-con-inner {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+}
+
+
+
+
+
+/* ==== Header ==== */
+
+
+
+/*.sub-menu a {
+    font-size: 14px !important;
+}
+
+#primary-menu_mobile .sub-menu>li>a {
+    font-size: 16px !important;
+}*/
+
+
+
+
+
+/* ==== Footer ==== */
+
+
+
+/*footer {
+    color: white;
+}
+
+footer {
+    padding: 70px 0;
+}*/
+
+
+
+/* ==== Homepage ==== */
+
+
+
+
+/* ==== Inner Pages ==== */
+
+
+
+
+
+/* ==== Mobile Optimisation ==== */
+
+
+
+/* switch from desctop to mobile main layout 
+   column layout remain the same
+   Tablet view   
+*/
+
+@media only screen and (max-width: 1080px) {
+
+}
+
+
+
+
+/* switch from desctop to mobile menu 
+   column layout changes to the one-column
+   Mobile view  
+*/
+
+@media only screen and (max-width: 980px) {
+
+}    
