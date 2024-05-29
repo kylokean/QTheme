@@ -1,4 +1,5 @@
 # QTheme
-Wordpress custom QTheme based on the Redux Framework WP plugin
+My custom Wordpress theme - QTheme. 
+Theme is based on the Redux Framework plugin (https://wordpress.org/plugins/redux-framework/) and can be transforming/extended to the prject needs.
 1. Install 'Redux Framework' WP plugin https://wordpress.org/plugins/redux-framework/
 2. Activate 'QTheme-Child' WP theme
